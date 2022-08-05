@@ -2,11 +2,32 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: rgb(30, 137, 230);
 }
 
-#App {
+body {
+    background-color: rgb(218, 255, 218);
+}
+
+.main {
     width: 1000px;
     margin: auto;
-    background-color: #8f2b2b;
+    color: black;
+    padding-top: 5rem;
+    background-color: whitesmoke;
+}
+
+#logo {
+    width: 150px;
+}
+
+h1 {
+    font-size: 5rem;
+    padding: 2rem;
+    font-weight: bolder;
+
+}
+
+.list {
+    padding: 5rem;
+    font-size: 3rem;
 }
